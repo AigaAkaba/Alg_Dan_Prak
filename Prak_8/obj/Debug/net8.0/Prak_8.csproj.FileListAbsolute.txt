@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\bin\Debug\net8.0\Prak_8.exe
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\bin\Debug\net8.0\Prak_8.deps.json
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\bin\Debug\net8.0\Prak_8.runtimeconfig.json
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\bin\Debug\net8.0\Prak_8.dll
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\bin\Debug\net8.0\Prak_8.pdb
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.AssemblyInfo.cs
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.sourcelink.json
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.dll
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\refint\Prak_8.dll
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.pdb
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\Prak_8.genruntimeconfig.cache
+C:\Users\Dima\Desktop\Alg_Dan_Prak\Prak_8\obj\Debug\net8.0\ref\Prak_8.dll
