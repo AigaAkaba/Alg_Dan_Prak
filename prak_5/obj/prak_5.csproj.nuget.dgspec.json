@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj": {}
+    "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj": {
+    "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj",
+        "projectUniqueName": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj",
         "projectName": "prak_5",
-        "projectPath": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj",
+        "projectPath": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\prak_5.csproj",
         "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\obj\\",
+        "outputPath": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\prak_5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
