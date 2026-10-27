@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj": {}
+    "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj": {
+    "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj",
+        "projectUniqueName": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj",
         "projectName": "Prak_6",
-        "projectPath": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj",
+        "projectPath": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\Prak_6.csproj",
         "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\obj\\",
+        "outputPath": "C:\\Users\\Dima\\Desktop\\Alg_Dan_Prak\\Prak_6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
